@@ -1,0 +1,1 @@
+# xtext-headless-rcp-example
