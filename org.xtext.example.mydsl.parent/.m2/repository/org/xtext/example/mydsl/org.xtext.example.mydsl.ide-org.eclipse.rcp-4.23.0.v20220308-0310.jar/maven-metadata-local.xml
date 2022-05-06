@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.xtext.example.mydsl</groupId>
+  <artifactId>org.xtext.example.mydsl.ide-org.eclipse.rcp-4.23.0.v20220308-0310.jar</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220506113426</lastUpdated>
+  </versioning>
+</metadata>

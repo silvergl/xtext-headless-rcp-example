@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 06 13:52:00 CEST 2022
+org.xtext.example.mydsl.ide-org.w3c.dom.svg-1.1.0.v201011041433.jar-1.0.0-SNAPSHOT.jar>=
+org.xtext.example.mydsl.ide-org.w3c.dom.svg-1.1.0.v201011041433.jar-1.0.0-SNAPSHOT.pom>=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 06 13:52:14 CEST 2022
+org.xtext.example.mydsl.ui.tests-1.0.0-SNAPSHOT.jar>=
+org.xtext.example.mydsl.ui.tests-1.0.0-SNAPSHOT.pom>=
+org.xtext.example.mydsl.ui.tests-1.0.0-SNAPSHOT-p2metadata.xml>=
+org.xtext.example.mydsl.ui.tests-1.0.0-SNAPSHOT-p2artifacts.xml>=

@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Cli
+Bundle-SymbolicName: org.xtext.example.mydsl.cli;singleton:=true
+Bundle-Version: 1.0.0.202205061151
+Require-Bundle: org.xtext.example.mydsl,org.xtext.example.mydsl.ide;bund
+ le-version="1.0.0",org.eclipse.core.runtime,org.eclipse.xtext.generator
+ ,org.eclipse.equinox.app,org.eclipse.emf.mwe.core,org.eclipse.xtext.uti
+ l
+Automatic-Module-Name: org.xtext.example.mydsl.cli
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Import-Package: com.google.inject,org.eclipse.emf.ecore.resource,org.ecl
+ ipse.xtext.validation
+

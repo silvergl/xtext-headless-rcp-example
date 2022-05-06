@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         id="application"
+         point="org.eclipse.core.runtime.applications">
+      <application>
+         <run
+               class="org.xtext.example.mydsl.cli.Application">
+         </run>
+      </application>
+   </extension>
+   <extension
+         id="product"
+         point="org.eclipse.core.runtime.products">
+      <product
+            application="org.xtext.example.mydsl.cli.application"
+            name="org.xtext.example.mydsl.product">
+         <property
+               name="appName"
+               value="org.xtext.example.mydsl.product">
+         </property>
+      </product>
+   </extension>
+   <extension
+         id="asd"
+         point="org.eclipse.core.runtime.products">
+      <product
+            application="org.xtext.example.mydsl.cli.application"
+            name="org.xtext.example.mydsl.product">
+      </product>
+   </extension>
+
+</plugin>

@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: org.xtext.example.mydsl.tests.MyDslParsingTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.137 s - in org.xtext.example.mydsl.tests.MyDslParsingTest
+loadModel  Time elapsed: 0.155 s

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.xtext.example.mydsl</groupId>
+  <artifactId>org.xtext.example.mydsl.ide-org.eclipse.osgi.compatibility.state-1.2.500.v20210730-0750.jar</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220506115119</lastUpdated>
+  </versioning>
+</metadata>

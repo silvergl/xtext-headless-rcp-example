@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 06 13:52:00 CEST 2022
+org.xtext.example.mydsl.ide-org.eclipse.e4.ui.services-1.5.0.v20210115-1333.jar-1.0.0-SNAPSHOT.jar>=
+org.xtext.example.mydsl.ide-org.eclipse.e4.ui.services-1.5.0.v20210115-1333.jar-1.0.0-SNAPSHOT.pom>=

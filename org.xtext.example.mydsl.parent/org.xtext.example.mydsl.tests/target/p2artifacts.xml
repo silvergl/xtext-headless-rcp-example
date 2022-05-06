@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.xtext.example.mydsl.tests' version='1.0.0.202205061151'>
+    <properties size='5'>
+      <property name='artifact.size' value='7203'/>
+      <property name='download.size' value='7203'/>
+      <property name='maven-groupId' value='org.xtext.example.mydsl'/>
+      <property name='maven-artifactId' value='org.xtext.example.mydsl.tests'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+</artifacts>
